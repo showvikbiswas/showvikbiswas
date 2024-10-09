@@ -1,5 +1,5 @@
 ## Hi there, I'm Showvik 👋
-A final year CS undergrad studying at Bangladesh University of Engineering and Technology
+A fresh graduate from Department of CSE, BUET, presently employed as a lecturer at BRAC University.
 
 Find out more at my [site](https://showvikbiswas.github.io/).
 
