@@ -1,5 +1,5 @@
 ## Hi there, I'm Showvik 👋
-A fresh graduate from Department of CSE, BUET, presently employed as a lecturer at BRAC University.
+A fresh graduate from Department of CSE, BUET.
 
 Find out more at my [site](https://showvikbiswas.github.io/).
 
