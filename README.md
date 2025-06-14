@@ -1,13 +1,11 @@
 ## Hi there, I'm Showvik 👋
-A fresh graduate from Department of CSE, BUET.
+Lecturer at Department of CSE, BARC University.
 
 Find out more at my [site](https://showvikbiswas.github.io/).
 
-- 🔭 I'm currently working as a lecturer at BRAC University.
 - 🔭 I previously worked as a research assistant at IWFM, BUET, working on the backend of a project to visualize water levels using Google Maps API.
 - 🌱 I’m currently learning how to create and orchestrate projects based on microservices.
-- 🧬 My area of research interest is primarily in bioinformatics, but I am open to opportunities in other fields. 
-- 🔍 I'm currently looking for internship opportunities as a software engineer or other research opportunities.
+- 🧬 My area of research interest is primarily in bioinformatics, but I am open to opportunities in other fields.
 - 💅 ~~Designing~~ Designed the backend for [HireDo](https://www.hiredo.com).
 
 ## <a id="languages"></a> Languages
