@@ -1,5 +1,5 @@
 ## Hi there, I'm Showvik 👋
-Lecturer at Department of CSE, BARC University.
+Lecturer at Department of CSE, BRAC University.
 
 Find out more at my [site](https://showvikbiswas.github.io/).
 
