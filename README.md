@@ -2,10 +2,11 @@
 Lecturer at Department of CSE, BRAC University.
 
 Find out more at my [site](https://showvikbiswas.github.io/).
+Check out my academic [page](https://showvik.xyz).
 
 - 🔭 I previously worked as a research assistant at IWFM, BUET, working on the backend of a project to visualize water levels using Google Maps API.
-- 🌱 I’m currently learning how to create and orchestrate projects based on microservices.
-- 🧬 My area of research interest is primarily in bioinformatics, but I am open to opportunities in other fields.
+- 🔎 My area of research interest is primarily in software engineering, with a focus on **developer wellbeing**. In our research we try to improve everyday developer workflows as efficiently as possible using cutting edge technologies such as language models.
+- 🧬 My undergraduate thesis was in the field of bioinformatics. There, I applied machine learning techniques on spatial transcriptomics (Slide-Seq) data to unveil new pathways for cell-cell communication using robust statistical methods to back our findings. 
 - 💅 ~~Designing~~ Designed the backend for [HireDo](https://www.hiredo.com).
 
 ## <a id="languages"></a> Languages
